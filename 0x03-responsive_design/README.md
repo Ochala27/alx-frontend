@@ -1,0 +1,1 @@
+Responsive design refers to a design approach aimed at creating websites or applications that adapt and respond to the user's behavior and environment based on screen size, platform, and orientation. In essence, it ensures that the user experience remains consistent across various devices, such as desktop computers, laptops, tablets, and smartphones.
